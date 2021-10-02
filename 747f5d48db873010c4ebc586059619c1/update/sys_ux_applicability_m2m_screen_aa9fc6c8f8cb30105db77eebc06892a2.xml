@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">ae9fc6c85ccb3010d5fd62bf50605aa2</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">a29fc6c8bbcb30104f9d70acaf8bb1b3</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-02 13:07:45</sys_created_on>
+        <sys_id>aa9fc6c8f8cb30105db77eebc06892a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_aa9fc6c8f8cb30105db77eebc06892a2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:07:45</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

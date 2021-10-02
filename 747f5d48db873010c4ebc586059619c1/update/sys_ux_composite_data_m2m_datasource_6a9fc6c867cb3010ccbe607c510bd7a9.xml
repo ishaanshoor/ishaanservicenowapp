@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">2e9fc6c824cb30107403a77a0c899fa8</dataset>
+        <datasource display_value="Custom Portal Catalog Item page - Related Items Datasource">a69fc6c8abcb3010b9def3a16c8135a9</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-02 13:07:47</sys_created_on>
+        <sys_id>6a9fc6c867cb3010ccbe607c510bd7a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_6a9fc6c867cb3010ccbe607c510bd7a9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:07:47</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

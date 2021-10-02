@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">6a9fc6c863cb3010357605c11b67bea3</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">ea9fc6c8f1cb301079fd3a3a7f6c09ab</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-02 13:07:43</sys_created_on>
+        <sys_id>6e9fc6c8aacb3010cbe74ed3e5b4eeae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_6e9fc6c8aacb3010cbe74ed3e5b4eeae</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:07:43</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>
