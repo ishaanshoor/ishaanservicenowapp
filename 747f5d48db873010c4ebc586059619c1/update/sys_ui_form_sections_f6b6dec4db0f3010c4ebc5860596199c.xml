@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="f6b6dec4db0f3010c4ebc5860596199c" sys_domain="global" table="x_261693_ishaan_0_payroll_case" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-02 13:38:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2b6dec4db0f3010c4ebc586059619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_261693_ishaan_0_payroll_case" name="x_261693_ishaan_0_payroll_case" sys_domain="global" view="Default view">f6b6dec4db0f3010c4ebc5860596199c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_261693_ishaan_0_payroll_case" sys_domain="global" view="Default view">d7a1da8cdbcb3010c4ebc586059619be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-02 13:38:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-02 13:38:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>feb6dec4db0f3010c4ebc586059619a0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_261693_ishaan_0_payroll_case" name="x_261693_ishaan_0_payroll_case" sys_domain="global" view="Default view">f6b6dec4db0f3010c4ebc5860596199c</sys_ui_form>
+            <sys_ui_section caption="Case Notes" display_value="Case Notes" name="x_261693_ishaan_0_payroll_case" sys_domain="global" view="Default view">fab6dec4db0f3010c4ebc58605961999</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-02 13:39:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-02 13:38:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3eb6dec4db0f3010c4ebc586059619a4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_261693_ishaan_0_payroll_case" name="x_261693_ishaan_0_payroll_case" sys_domain="global" view="Default view">f6b6dec4db0f3010c4ebc5860596199c</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_261693_ishaan_0_payroll_case" sys_domain="global" view="Default view">fab6dec4db0f3010c4ebc5860596199a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-02 13:39:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_261693_ishaan_0_payroll_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-02 13:38:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6b6dec4db0f3010c4ebc5860596199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_261693_ishaan_0_payroll_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f6b6dec4db0f3010c4ebc5860596199c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-02 13:38:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

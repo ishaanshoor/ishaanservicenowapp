@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Create a payroll case">3aff060cdbcb3010c4ebc5860596197c</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 13:14:14</sys_created_on>
+        <sys_id>ae11568cdbcb3010c4ebc58605961974</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Create a payroll case</sys_name>
+        <sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_ae11568cdbcb3010c4ebc58605961974</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:14:14</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</application>
+        <file_path/>
+        <instance_id>fe06e61cdbb19fc0536ad5b0cf961926</instance_id>
+        <instance_name>dev57511</instance_name>
+        <name>sc_cat_item_catalog_ae11568cdbcb3010c4ebc58605961974</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create a payroll case">3aff060cdbcb3010c4ebc5860596197c</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-02 13:14:14</sys_created_on><sys_id>ae11568cdbcb3010c4ebc58605961974</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Create a payroll case</sys_name><sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package><sys_policy/><sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope><sys_update_name>sc_cat_item_catalog_ae11568cdbcb3010c4ebc58605961974</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-02 13:14:14</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-163148184</payload_hash>
+        <record_name>Service Catalog.Create a payroll case</record_name>
+        <reverted_from/>
+        <source>deb3a908db873010c4ebc58605961984</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 13:14:14</sys_created_on>
+        <sys_id>aa11568cdbcb3010c4ebc58605961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c41240f7e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:14:14</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>2211568cd9cb301096382ff3fedb9a78</update_guid>
+        <update_guid_history>2211568cd9cb301096382ff3fedb9a78:-163148184</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Create a payroll case">6611568cdbcb3010c4ebc58605961982</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 13:14:15</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>b456220e1c3a4825955e851fd0de1ed9</sys_id>
+        <sys_metadata>ae11568cdbcb3010c4ebc58605961974</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Create a payroll case</sys_name>
+        <sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package>
+        <sys_parent display_value="Raise a payroll request">3aff060cdbcb3010c4ebc5860596197c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope>
+        <sys_scope_delete display_value="">3dc512754285404d8b15f7171503afe1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_ae11568cdbcb3010c4ebc58605961974</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_ae11568cdbcb3010c4ebc58605961974">aa11568cdbcb3010c4ebc58605961978</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:14:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="kb_knowledge">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>short_description,rating,topic,sys_view_count,article_type,category</field_list>
+        <name>Custom Portal Landing - Popular Articles Predicate</name>
+        <order/>
+        <predicate_bundle/>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-02 13:07:43</sys_created_on>
+        <sys_id>269fc6c826cb3010392fc9a6d8b984ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Portal Landing - Popular Articles Predicate</sys_name>
+        <sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_269fc6c826cb3010392fc9a6d8b984ab</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:07:43</sys_updated_on>
+        <table>kb_knowledge</table>
+        <ux_template display_value="Custom Portal Landing - Popular Articles">ae9fc6c849cb3010a85e8b7cc860a6aa</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

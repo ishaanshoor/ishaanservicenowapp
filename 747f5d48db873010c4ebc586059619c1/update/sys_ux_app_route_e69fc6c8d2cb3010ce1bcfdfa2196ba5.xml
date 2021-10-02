@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Payroll Portal Config">a69fc6c8dbcb3010c4ebc5860596193b</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Additional Details</name>
+        <optional_parameters/>
+        <order>200</order>
+        <parent_macroponent display_value="Record Page(task)">6e9fc6c825cb301043bfa8ab6d0b40a2</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_task_additional</route_type>
+        <screen_type display_value="Additional Details">a69fc6c844cb3010a592cb55d04ddba5</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-02 13:07:45</sys_created_on>
+        <sys_id>e69fc6c8d2cb3010ce1bcfdfa2196ba5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Additional Details</sys_name>
+        <sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope>
+        <sys_update_name>sys_ux_app_route_e69fc6c8d2cb3010ce1bcfdfa2196ba5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:07:45</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=e69fc6c8d2cb3010ce1bcfdfa2196ba5"/>
+</record_update>

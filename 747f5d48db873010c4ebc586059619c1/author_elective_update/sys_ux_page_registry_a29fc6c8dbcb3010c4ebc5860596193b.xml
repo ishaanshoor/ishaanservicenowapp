@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>a69fc6c8dbcb3010c4ebc5860596193b</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <path>payroll</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-02 13:07:47</sys_created_on>
+        <sys_id>a29fc6c8dbcb3010c4ebc5860596193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Payroll Portal</sys_name>
+        <sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope>
+        <sys_update_name>sys_ux_page_registry_a29fc6c8dbcb3010c4ebc5860596193b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:07:47</sys_updated_on>
+        <title>Payroll Portal</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</application>
+        <file_path/>
+        <instance_id>fe06e61cdbb19fc0536ad5b0cf961926</instance_id>
+        <instance_name>dev57511</instance_name>
+        <name>sys_ux_page_registry_a29fc6c8dbcb3010c4ebc5860596193b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>a69fc6c8dbcb3010c4ebc5860596193b</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><path>payroll</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2021-10-02 13:07:47</sys_created_on><sys_id>a29fc6c8dbcb3010c4ebc5860596193b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Payroll Portal</sys_name><sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package><sys_policy/><sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope><sys_update_name>sys_ux_page_registry_a29fc6c8dbcb3010c4ebc5860596193b</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2021-10-02 13:07:47</sys_updated_on><title>Payroll Portal</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>2024083309</payload_hash>
+        <record_name>Payroll Portal</record_name>
+        <reverted_from/>
+        <source>a59a7631db213010c4ebc586059619dc</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-07-25 13:10:41</sys_created_on>
+        <sys_id>cf81de4cdbcb3010c4ebc58605961905</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17addca00680000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>8f81de4ca9cb3010a629354093e79c05</update_guid>
+        <update_guid_history>8f81de4ca9cb3010a629354093e79c05:2024083309</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 13:16:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>81e1251e35004b3abd8472cd7d49f304</sys_id>
+        <sys_metadata>a29fc6c8dbcb3010c4ebc5860596193b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Payroll Portal</sys_name>
+        <sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope>
+        <sys_scope_delete display_value="">3dc512754285404d8b15f7171503afe1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_a29fc6c8dbcb3010c4ebc5860596193b</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_a29fc6c8dbcb3010c4ebc5860596193b">cf81de4cdbcb3010c4ebc58605961905</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:16:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

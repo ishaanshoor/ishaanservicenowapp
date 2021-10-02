@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>custom_portal_approval_x_261693_ishaan_0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-02 13:07:47</sys_created_on>
+        <sys_id>2a9fc6c83bcb3010f431ea63bdc464b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom portal (x_261693_ishaan_0 )</sys_name>
+        <sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope>
+        <sys_update_name>sys_ui_view_2a9fc6c83bcb3010f431ea63bdc464b4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:07:47</sys_updated_on>
+        <title>Custom portal (x_261693_ishaan_0 )</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

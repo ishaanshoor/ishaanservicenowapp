@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="subcategory" table="x_261693_ishaan_0_payroll_case" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <name>x_261693_ishaan_0_payroll_case</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-02 14:04:44</sys_created_on>
+            <sys_id>46ac16c0db4f3010c4ebc58605961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>subcategory</sys_name>
+            <sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope>
+            <sys_update_name>sys_choice_x_261693_ishaan_0_payroll_case_subcategory</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-02 14:04:44</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Query</label>
+            <language>en</language>
+            <name>x_261693_ishaan_0_payroll_case</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-02 14:04:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0eac16c0db4f3010c4ebc58605961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-02 14:04:44</sys_updated_on>
+            <value>query</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Payroll</label>
+            <language>en</language>
+            <name>x_261693_ishaan_0_payroll_case</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-02 14:04:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82ac16c0db4f3010c4ebc58605961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-02 14:04:44</sys_updated_on>
+            <value>payroll</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

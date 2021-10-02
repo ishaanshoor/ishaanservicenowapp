@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Payroll Case" max_length="40" name="x_261693_ishaan_0_payroll_case" type="collection">
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Benefits" sequence="0" value="benefits"/>
+                <element inactive_on_update="false" label="Finance" sequence="1" value="finance"/>
+                <element inactive_on_update="false" label="Other" sequence="2" value="other"/>
+                <element inactive_on_update="false" label="Pay review" sequence="3" value="pay review"/>
+                <element inactive_on_update="false" label="Leaves" sequence="4" value="leaves"/>
+                <element inactive_on_update="false" label="Rewards" sequence="5" value="rewards"/>
+                <element inactive_on_update="false" label="Third Party" sequence="6" value="third party"/>
+                <element inactive_on_update="false" label="Work Expenses" sequence="7" value="work expenses"/>
+            </choice>
+        </element>
+        <element choice="1" label="Subcategory" max_length="40" name="subcategory" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Query" sequence="0" value="query"/>
+                <element inactive_on_update="false" label="Payroll" sequence="1" value="payroll"/>
+            </choice>
+        </element>
+        <element label="Vendor" max_length="32" name="vendor" reference="core_company" type="reference"/>
+    </element>
+</database>

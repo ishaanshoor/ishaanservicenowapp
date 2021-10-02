@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <default_route_type/>
+        <description>Payroll Portal</description>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>landing</landing_path>
+        <name>Payroll Portal Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-02 13:07:46</sys_created_on>
+        <sys_id>a69fc6c8dbcb3010c4ebc5860596193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Payroll Portal Config</sys_name>
+        <sys_package display_value="Ishaan ServiceNow Application" source="x_261693_ishaan_0">747f5d48db873010c4ebc586059619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ishaan ServiceNow Application">747f5d48db873010c4ebc586059619c1</sys_scope>
+        <sys_update_name>sys_ux_app_config_a69fc6c8dbcb3010c4ebc5860596193b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:07:46</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=a69fc6c8dbcb3010c4ebc5860596193b"/>
+</record_update>
